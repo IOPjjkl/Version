@@ -16,4 +16,4 @@ ChangeLog [recode v1.6]
 [/] Fixed Aura interact on Grim
 [+] New config Save
 [!] Insax pidoras
-[+] Added crash button [I don’t know why)]
+[+] Added crash button [I dont know why)]
