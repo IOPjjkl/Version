@@ -1,4 +1,4 @@
-ChangeLog [recode v1.5]
+ChangeLog [recode v1.6]
 
 [+] AutoBuy (funTime) "It's better not to use it, maybe you'll get banned"
 [+] Speed -> FunTime (Grim)
