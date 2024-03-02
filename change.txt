@@ -1,6 +1,6 @@
 ChangeLog [recode v1.5]
 
-[+] AutoBuy (funTime) лучше не юзать забанить может!
+[+] AutoBuy (funTime) "It's better not to use it, maybe you'll get banned"
 [+] Speed -> FunTime (Grim)
 [+] TargetHud -> NurikZapen -> Mini
 [+] Wurst easter egg
@@ -15,5 +15,5 @@ ChangeLog [recode v1.5]
 [/] Fixed BoatFly -> allowShift
 [/] Fixed Aura interact on Grim
 [+] New config Save
-[!] Insax пидорас ебучий
+[!] Insax pidoras
 
