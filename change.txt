@@ -15,4 +15,5 @@ ChangeLog [recode v1.6]
 [/] Fixed BoatFly -> allowShift
 [/] Fixed Aura interact on Grim
 [+] New config Save
-[!] Insax pidoras
+[+] + 7 new images DiscordRPC
+
