@@ -1,19 +1,4 @@
-ChangeLog [recode v1.7b]
+ChangeLog [recode v1.7.2b]
 
-[+] AutoBuy (funTime) "It's better not to use it, maybe you'll get banned"
-[+] Speed -> FunTime (Grim)
-[+] TargetHud -> NurikZapen -> Mini
-[+] Wurst easter egg
-[+] German translation
-[+] SwingAnimations -> Moooooore modes
-[+] NameTags, TargetHud -> FunTime (HP Bypass)
-[+] NameTags -> OnlyHands
-[/] Fixed string settings saving
-[/] Fixed Aura -> OnlyWeapon with MoveFix
-[/] Optimized hud elements
-[/] Improved NoSlow -> FunTime (Grim)
-[/] Fixed BoatFly -> allowShift
-[/] Fixed Aura interact on Grim
-[+] New config Save
-[+] + 7 new images DiscordRPC
-
+[+] Обнᴏвᴫᴇн ᴍᴏдуᴫь UnHook
+[/] Добавили обход Speed [Bypass mode]
